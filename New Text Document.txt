@@ -1,4 +1,7 @@
-I've added a new text document
-l1ne 1
-2 line
-lin3
+#I've added a new text document
+#l1ne 1
+#2 line
+#lin3
+
+def add(a, b):
+	return a+b
