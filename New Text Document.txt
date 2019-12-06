@@ -19,4 +19,8 @@ def divide(a, b):
 def exponent(a, b):
 	return a**b
 
+#this adds 1 to the input
+def increment(a):
+	return a+1
+
 
